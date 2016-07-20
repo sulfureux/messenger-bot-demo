@@ -1,0 +1,18 @@
+{
+  "name": "hal-msg",
+  "version": "0.0.1",
+  "description": "Demo Bot (Messenger Bot)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node first-start.js",
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "HalcyonL",
+  "license": "MIT",
+  "dependencies": {
+    "config": "^1.21.0",
+    "request": "^2.73.0"
+  }
+}

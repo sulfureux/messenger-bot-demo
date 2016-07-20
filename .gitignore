@@ -1,0 +1,8 @@
+# Commonly ignored Node.js files
+node_modules/
+npm-debug.log
+
+# OSX system files, the bane of our existence
+.DS_Store
+.AppleDouble
+.LSOverride
