@@ -4,7 +4,7 @@
 Config file `config/default.json`
 ### Install
 ```
-$ npm Install
+$ npm install
 $ npm build
 $ npm start
 ```
